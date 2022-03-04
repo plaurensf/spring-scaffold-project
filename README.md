@@ -1,11 +1,9 @@
 # Template project for future features
 
-This simple application was develop for clone to futures features.
-Instead of doing the same project structure and write the sames classes
-we have this project for just download and integrate wathever we want.
+This simple application was develop for clone and develop futures features. 
+Instead of doing the same project structure and write the sames classes we have this project for just download and integrate whichever we want.
 
-In futures, the idea is to create a maven plugin which do a main task and create 
-the structure.
+In futures, the idea is to create a maven plugin which run a main task and create the structure.
 
 
 Project structure:
